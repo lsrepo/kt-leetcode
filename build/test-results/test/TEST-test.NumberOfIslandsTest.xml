@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="test.NumberOfIslandsTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-01-21T10:20:05" hostname="Paks-MacBook-Pro-2.local" time="0.038">
-  <properties/>
-  <testcase name="numIslands test 1" classname="test.NumberOfIslandsTest" time="0.037"/>
-  <testcase name="numIslands test 2" classname="test.NumberOfIslandsTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
