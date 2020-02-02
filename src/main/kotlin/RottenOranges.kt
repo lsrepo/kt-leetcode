@@ -57,4 +57,4 @@ class RottenOranges {
     }
 }
 
-data class Point(val row: Int, val col: Int)
+private data class Point(val row: Int, val col: Int)
